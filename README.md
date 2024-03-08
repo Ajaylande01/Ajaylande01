@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajaylande01
+- 👋 Hi, I’m Ajay Lande
 - 👀 I’m interested in Software Automation Testing
 - 🌱 I’m currently learning Python with selenium
 - 💞️ I’m looking to collaborate on ...
